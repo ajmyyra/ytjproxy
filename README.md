@@ -2,10 +2,11 @@
 
 ## Usage
 
+```
 npm install
 nano config.js
 node server.js
-
+```
 
 ## Config example
 
