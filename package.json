@@ -1,0 +1,11 @@
+{
+  "name": "ytjproxy",
+  "version": "1.0.0",
+  "description": "Node.js web server for fetching company data from the public Finnish company listing (YTJ). Also some postal codes.",
+  "main": "server.js",
+  "repository": "https://github.com/ajmyyra/ytjproxy/",
+  "author": "Antti Myyrä <antti.myyra@gmail.com>",
+  "dependencies": {
+    "postinumerot": "git+https://github.com/theikkila/postinumerot.git"
+  }
+}
